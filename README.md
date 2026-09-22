@@ -1,1 +1,1 @@
-# Windows-Forms-retici-Uygulama
+# Windows-Forms-Ogretici-Uygulama
